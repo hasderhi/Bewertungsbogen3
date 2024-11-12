@@ -128,6 +128,10 @@ def getsnameinput():
 
 
 
+#def get_slider_values():
+    #slider_values = [slider.get() for slider in [slider1, slider2, slider3, slider4, slider5, slider6, slider7, slider8, slider9, slider10, slider11, slider12]]
+    #return slider_values
+
 #Slider vars
 def get_slider_values():
     try:
