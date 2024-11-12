@@ -12,3 +12,10 @@
 
 - **Bekannter Fehler**: Programmicons funktionieren unter Windows nicht.
 - **Bekannter Fehler**: Automatisches Öffnen funktioniert in der ```.exe```-Version nicht.
+<br>
+<br>
+
+- **In Arbeit**: ```.exe```-Version neu erstellen.
+- **In Arbeit**: Programmicons für Windows reparieren.
+- **In Arbeit**: Automatisches Öffnen in Windows reparieren.
+- **In Arbeit**: Release vorbereiten.
