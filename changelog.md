@@ -6,7 +6,7 @@
 
 - **Neu**: Dateien hochgeladen.
 - **Neu**: Bewertungsbogen 3 erstellt.
-- **Neu**: Lizenz und changelog erstellt.
+- **Neu**: Lizenz und Changelog erstellt.
 <br>
 <br>
 
