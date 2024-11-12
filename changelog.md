@@ -19,3 +19,24 @@
 - **In Arbeit**: Programmicons für Windows reparieren.
 - **In Arbeit**: Automatisches Öffnen in Windows reparieren.
 - **In Arbeit**: Release vorbereiten.
+
+
+
+
+## Version Pre.3.0.1 (Pre-release)
+**Datum: 12.11.2024 (14:36 MEZ)**
+
+- **Neu**: Fixed issue with CSS displaying
+- **Neu**: Added example files
+<br>
+<br>
+
+- **Bekannter Fehler**: Programmicons funktionieren unter Windows nicht.
+- **Bekannter Fehler**: Automatisches Öffnen funktioniert in der ```.exe```-Version nicht.
+<br>
+<br>
+
+- **In Arbeit**: ```.exe```-Version neu erstellen.
+- **In Arbeit**: Programmicons für Windows reparieren.
+- **In Arbeit**: Automatisches Öffnen in Windows reparieren.
+- **In Arbeit**: Release vorbereiten.
