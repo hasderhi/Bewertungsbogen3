@@ -99,44 +99,6 @@ def create_settings_window():
         messagebox.showerror(f"Error (Code E003)", "Ein unerwarteter Fehler ist aufgetreten.")
 
 
-#Documentation
-def open_documentation():
-    try:
-        #Check if file exists:
-        if os.path.exists(os.path.join(script_dir, "res/documentation.html")):
-            file_name = 'documentation.html'
-            current_directory = os.path.dirname(__file__)
-            file_path = os.path.join(current_directory, file_name)
-            url = 'file://' + file_path
-            webbrowser.open(url, new=2)  # open in new tab
-        else:
-            messagebox.showerror("Error (Code E002)", "Ein internes Dokument wurde nicht gefunden.")
-    except Exception as e:
-        print(f"Error (Code E002): {e}")
-        messagebox.showerror("Error (Code E002)", "Ein internes Dokument wurde nicht gefunden.")
-
-    
-#Bugreport
-def open_bugreport():
-    try:
-        if os.path.exists(os.path.join(script_dir, "res/bugreport.html")):
-            file_name = 'bugreport.html'
-            current_directory = os.path.dirname(__file__)
-            file_path = os.path.join(current_directory, file_name)
-
-            url = 'file://' + file_path
-            webbrowser.open(url, new=2)  # open in new tab
-        else:
-            messagebox.showerror("Error (Code E002)", "Ein internes Dokument wurde nicht gefunden.")
-    except Exception as e:
-        print(f"Error (Code E002): {e}")
-        messagebox.showerror("Error (Code E002)", "Ein internes Dokument wurde nicht gefunden.")
-
-
-
-
-
-
 
 
 
@@ -460,8 +422,6 @@ def create_menu():
     helpmenu = Menu(menu)
     menu.add_cascade(label="Hilfe", menu=helpmenu)
     helpmenu.add_command(label="Über", command=create_about_window)
-    helpmenu.add_command(label="Dokumentation", command=open_documentation)
-    helpmenu.add_command(label="Einen Fehler melden", command=open_bugreport)
 
 #Scroll up/down
 def _on_mousewheel(event):
