@@ -5,7 +5,7 @@ try:
     import webbrowser
     import ctypes
 
-    from PIL import Image, ImageTk
+    #from PIL import Image, ImageTk
 
     from tkinter import *
     from tkinter import messagebox
@@ -26,7 +26,7 @@ except:
     print("Error (Code E000)", "Ein unbekannter Fehler ist aufgetreten. Das Programm startet nicht.")
     sys.exit(0)
 
-from PIL import Image, ImageTk
+#from PIL import Image, ImageTk
 
 
 #App-ID
@@ -485,9 +485,9 @@ try:
     mainWindow = Tk()
     mainWindow.title('Bewertungsbogen 3.0')
 
-    icon=Image.open("res/icon.ico")
-    icon=ImageTk.PhotoImage(icon)
-    mainWindow.iconphoto(True, icon)
+    #icon=Image.open("res/icon.ico")
+    #icon=ImageTk.PhotoImage(icon)
+    #mainWindow.iconphoto(True, icon)
     mainWindow.resizable(False, False)
 
     canvas = Canvas(mainWindow, width=100, height=600)
