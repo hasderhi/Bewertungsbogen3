@@ -24,9 +24,7 @@ sys
 webbrowser
 ctypes
 
-from tkinter import *
-from tkinter import messagebox
-from tkinter import filedialog
+tkinter, messagebox, filedialog
 
 **Muss installiert werden**
 PIL Image, ImageTk

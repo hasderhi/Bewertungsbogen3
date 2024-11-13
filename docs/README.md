@@ -11,7 +11,7 @@
 Diese Software ermöglicht die Erstellung von Bewertungszetteln auf Basis von Benutzer- und predefinierten Kriterien. Diese werden im Browser geöffnet und können dann einfach als ```.pdf```-Datei abgespeichert werden oder ausgedruckt werden.
 <br>
 <br>
-Die Software nutzt die Programmiersprache Python, der Quellcode befindet sich im ```Python```-Ordner. Für Windows-Betriebssysteme gibt es eine ```.exe```-Datei, diese finden Sie im ```executable```-Ordner. Für die Python-Installation werden Module benötigt, dazu später mehr.
+Die Software nutzt die Programmiersprache Python, der Quellcode befindet sich im ```source```-Ordner. Für Windows-Betriebssysteme gibt es eine ```.exe```-Datei, diese finden Sie im ```source/exe```-Ordner. Für die Python-Installation werden Module benötigt, dazu später mehr.
 
 ## Installation
 ### Python-Installation
@@ -37,14 +37,14 @@ Laden Sie die neueste Vollversion für Ihr Betriebssystem [hier](https://www.pyt
 3. Drücken Sie die Eingabetaste.
 4. Warten Sie, bis die Installation abgeschlossen ist.<br>
 
-*Schritt 3:* Wählen Sie die entsprechende Version von ```Bewertungsbogen``` für Ihr System aus. <br>Für Windows-Betriebssysteme wählen Sie aus der Repository ```python/windows``` aus und laden diesen herunter.<br>
-Falls Sie ein MacOS oder ein anderes Betriebssystem verwenden, wählen Sie ```python/universal``` aus und laden diese herunter.
+*Schritt 3:* Wählen Sie die entsprechende Version von ```Bewertungsbogen``` für Ihr System aus. <br>Für Windows-Betriebssysteme wählen Sie aus der Repository ```release/<neueste Version>/Bewertungsbogen 3.0.0 Python ZIP-Download``` aus und laden die ```.zip```-Datei herunter. Dann entpacken Sie die Datei im Explorer.<br><br>
+Falls Sie ein MacOS oder ein anderes Betriebssystem verwenden, wählen Sie ```release/<neueste Version>/Bewertungsbogen 3.0.0 Python ZIP-Download``` aus und laden die ```.zip```-Datei herunter und entpacken diese ebenfalls.
 
 ### Windows-Executable-Installation
 <b>Dies ist die Installationsanleitung für die Windows-Executable-Version (```.exe```-Datei). Diese Version benötigt keine externen Installationen, läuft aber nur unter Windows.</b>
 
 *Schritt 1:* Laden Sie die
-```.zip```-Datei der Windows-Executable-Version herunter. Diese finden Sie im Ordner ```excecutable/zip```.<br><br>
+```.zip```-Datei der Windows-Executable-Version herunter. Diese finden Sie im Ordner ```release/<neueste Version>/Bewertungsbogen 3.0.0 Windows Executable ZIP-Download```.<br><br>
 *Schritt 2:* Entpacken Sie die ```.zip```-Datei. Sie sollten folgenden Inhalt vorfinden:
 <br>
 * ```Bewertungsbogen 3.0.0.exe```
@@ -129,7 +129,7 @@ die anderen Werte setzen die Bewertung auf das jeweilige Textequivalent zur Zahl
 
 ## Sonstiges
 ### Fehler und sonstiges unerwartetes Verhalten
-Sollte das Programm einen Fehler feststellen, wird Ihnen ein Fehlercode angezeigt. Diesen Code können Sie im Dokument ```errorcodes.md``` nachschlagen, welches dem Download inkludiert ist. 
+Sollte das Programm einen Fehler feststellen, wird Ihnen ein Fehlercode angezeigt. Diesen Code können Sie im Dokument ```errorcodes.md``` nachschlagen, welches sich im Ordner ```docs``` befindet. 
 
 Falls ein Fehler immer wieder auftritt und Sie keine Lösung finden, kontaktieren Sie mich gerne unter ```tobias.kisling@icloud.com```.
 

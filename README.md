@@ -1,6 +1,6 @@
 # Bewertungsbogen3.0.0
 The code of Bewertungsbogen 3.0.0, my rating system in python.
-The license and information can be found in the folder ```information```.
+The license and information can be found in the folder ```docs```.
 
 This software is released under the MIT-License.
 
