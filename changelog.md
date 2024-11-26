@@ -80,5 +80,18 @@
 - **In Arbeit**: Programmicons für Windows reparieren.
 - **In Arbeit**: Automatisches Öffnen in Windows reparieren.
 
+## Version 3.0.1 (Release)
+**Datum: 26.11.2024 (18:07 MEZ)**
+
+- **Neu**: Programmicons repariert.
+<br>
+<br>
+
+- **Bekannter Fehler**: Automatisches Öffnen funktioniert in der ```.exe```-Version nicht.
+<br>
+<br>
+
+- **In Arbeit**: ```.exe```-Version neu erstellen.
+- **In Arbeit**: Automatisches Öffnen in Windows reparieren.
 
 
