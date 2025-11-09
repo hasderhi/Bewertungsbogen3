@@ -4,6 +4,6 @@ The license and information can be found in the folder ```docs```.
 
 This software is released under the MIT-License.
 
-Copyright (c) 2024 Tobias Kisling "Annabeth" "hasderhi"
+Copyright (c) 2024 Annabeth Kisling "Tobias" "hasderhi"
 
 # tk_dev - Software with passion!

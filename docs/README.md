@@ -131,13 +131,13 @@ die anderen Werte setzen die Bewertung auf das jeweilige Textequivalent zur Zahl
 ### Fehler und sonstiges unerwartetes Verhalten
 Sollte das Programm einen Fehler feststellen, wird Ihnen ein Fehlercode angezeigt. Diesen Code können Sie im Dokument ```errorcodes.md``` nachschlagen, welches sich im Ordner ```docs``` befindet. 
 
-Falls ein Fehler immer wieder auftritt und Sie keine Lösung finden, kontaktieren Sie mich gerne unter ```tobias.kisling@icloud.com```.
+Falls ein Fehler immer wieder auftritt und Sie keine Lösung finden, kontaktieren Sie mich gerne unter ```contact@tk-dev-software.com```.
 
 ### Lizenz und Information
 Dieses Programm ist unter der MIT-Lizenz
 veröffentlicht. Das bedeutet, dass Sie das Programm kostenlos verwenden und teilen können. Sie müssen eine Kopie der ```license.md``` immer inkludieren.
 
-**Copyright (c) 2024 Tobias Kisling<br>
+**Copyright (c) 2024 Annabeth Kisling<br>
 Lizenz: MIT-Lizenz**
 
 

@@ -5,7 +5,7 @@ Dies sind Fehler, die das Programm schwer beeinträchtigen.
 Falls Sie einen solchen Fehler antreffen sollten, überprüfen Sie das Programm und installieren Sie es im Zweifel neu. Ansonsten kontaktieren Sie bitte den Entwickler über:
 [Github](https://github.com/hasderhi)
 /
-[Email](mailto:tobias.kisling@icloud.con)
+[Email](mailto:Annabeth.kisling@icloud.con)
 
 ---
 ### Fehlercode E000 - Unerwarteter kritischer Fehler
@@ -72,6 +72,6 @@ Dieser Fehlercode tritt auf, wenn Benutzer:innen das Programm falsch bedienen. B
 <br>
 <br>
 <br>
-Copyright (c) 2024 Tobias Kisling (GitHub: hasderhi)
+Copyright (c) 2024 Annabeth Kisling (GitHub: hasderhi)
 
 # tk_dev - Software with passion!

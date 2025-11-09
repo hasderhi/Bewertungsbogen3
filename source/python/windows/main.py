@@ -71,7 +71,7 @@ def create_about_window():
         about_window.resizable(False, False)
         Label(about_window, font=('TkDefaultFont', 21), text="Bewertungsbogen").pack()
         Label(about_window, font=('TkDefaultFont', 10), text="Version 3.0").pack()
-        Label(about_window, font=('TkDefaultFont', 10), text="Copyright 2024 Tobias Kisling").pack()
+        Label(about_window, font=('TkDefaultFont', 10), text="Copyright 2024 Annabeth Kisling").pack()
         Label(about_window, font=('TkDefaultFont', 10), text="Diese Software ist durch\ndie MIT-License freigegeben.\nFür weitere Informationen lesen Sie \nbitte die Readme-Datei, die der \nInstallation beiliegt.").pack()
         Label(about_window, font=('Verdana', 10), text="tk_dev - Software with passion!").pack()
         Button(about_window, text="Schließen", command=about_window.destroy).pack()
